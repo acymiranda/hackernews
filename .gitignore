@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio local files
+.vs/
+*.user
+*.suo
+
+# Test results
+TestResults/
+
+# NuGet
+*.nupkg
+.nuget/
